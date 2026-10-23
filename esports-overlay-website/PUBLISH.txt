@@ -1,0 +1,9 @@
+ESPORTS OVERLAY - website ready to publish (Firebase Hosting)
+Built Fri Oct 23 2026 18:48:49 GMT+0300 (Arabian Standard Time)
+
+1. Install Node.js LTS (nodejs.org) once.
+2. Create a Firebase project called "Esports Overlay" at console.firebase.google.com (note its project ID, e.g. esports-overlay).
+3. Double-click deploy-to-firebase.bat in this folder, enter the project ID and sign in.
+4. Your site: https://<project-id>.web.app
+
+The site is a demo + the vMix asset exporter. The live setup (sync server, NDI relay, vMix control) runs on the vMix PC from the full project backup.
